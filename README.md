@@ -14,7 +14,7 @@ The dashboard provides actionable insights into:
 The goal is to leverage data-driven decisions for inventory planning, marketing strategies, and customer engagement.
 
 # 📊 Dashboard Preview
-![image alt]()
+![image alt](https://github.com/mondal-subhajit05/BLINKIT-DATA-ANALYSIS/blob/d302088199e848b13da30da1ed22679c486d5ac3/Screenshot_Dashboard.png)
 
 # 📂 Project Files
 - 📄 BLINKIT DATA ANALYSIS DASHBOARD.pbix → Interactive Power BI dashboard
