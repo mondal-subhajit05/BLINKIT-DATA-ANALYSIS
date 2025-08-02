@@ -17,9 +17,9 @@ The goal is to leverage data-driven decisions for inventory planning, marketing 
 ![image alt](https://github.com/mondal-subhajit05/BLINKIT-DATA-ANALYSIS/blob/d302088199e848b13da30da1ed22679c486d5ac3/Screenshot_Dashboard.png)
 
 # 📂 Project Files
-- 📄 BLINKIT DATA ANALYSIS DASHBOARD.pbix → Interactive Power BI dashboard
+- 📄 BLINKIT DATA ANALYSIS DASHBOARD.pbix → ![Power BI]
 
-- 📊 BlinkIT Grocery Data.xlsx → Source dataset
+- 📊 BlinkIT Grocery Data.xlsx → ![Excel](https://github.com/mondal-subhajit05/BLINKIT-DATA-ANALYSIS/blob/817634da343b4c679f175eb45a82f53dc559b452/BlinkIT%20Grocery%20Data.xlsx)
 # 📈 Key Insights
 - 🍎 Top-selling categories drive majority of revenue
 
