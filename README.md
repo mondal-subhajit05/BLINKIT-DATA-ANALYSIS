@@ -14,7 +14,7 @@ The dashboard provides actionable insights into:
 The goal is to leverage data-driven decisions for inventory planning, marketing strategies, and customer engagement.
 
 # 📊 Dashboard Preview
-![BlinkIT Grocery Dashboard](screenshot.png)
+![BlinkIT Grocery Dashboard]([screenshot.png](https://github.com/mondal-subhajit05/BLINKIT-DATA-ANALYSIS/blob/7a20847262c11a35c7b4fedea8afcdddf7b88a61/Screenshot_Dashboard.png))
 
 # 📂 Project Files
 - 📄 BLINKIT DATA ANALYSIS DASHBOARD.pbix → Interactive Power BI dashboard
